@@ -2,7 +2,7 @@
 - 👀 I’m interested in engineering software systems related to ID-card layout design. 
 - 🌱 I’m currently learning C++, REST API 
 - 💞️ I’m looking to collaborate on ... not sure yet. 
-- 📫 How to reach me ... RSoftwareConsulting123@gmail.com 
+- 📫 How to reach me ... TomDownes1@gmail.com _or_ RSoftwareConsulting123@gmail.com 
 
 <!---
 tdownes57/tdownes57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
