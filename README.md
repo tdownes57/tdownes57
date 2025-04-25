@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Thomas C. Downes @tdownes57
-- 👀 I’m interested in engineering software systems related to ID-card layout design. 
-- 🌱 I’m currently learning C++, REST API 
-- 💞️ I’m looking to collaborate on ... not sure yet. 
-- 📫 How to reach me ... TomDownes1@gmail.com _or_ RSoftwareConsulting123@gmail.com 
+- 👀 I’m a software engineer with more than 20 years of experience. 
+- 🌱 I have more than 20 years of experience with VB.NET and almost as many years with C#.
+-    I have more than 20 years of experience with Microsoft SQL Server, at multiple companies.  
+- 💞️ I have experience with managing teams of developers. 
+- 📫 How to reach me ... TomDownes1@gmail.com _or_ ThomasDownes57@gmail.com 
 
 <!---
 tdownes57/tdownes57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
